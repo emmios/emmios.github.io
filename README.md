@@ -6,3 +6,5 @@ Emmi OS
 **Site:** https://emmios.com.br/
 
 **Youtube:** https://www.youtube.com/channel/UCvv3qGmcZa6m1frX3uGeFIQ
+
+EOF
